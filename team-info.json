@@ -1,6 +1,14 @@
 {
-    "team_name": "Team Name",
+    "team_name": "Snack Overflow",
     "students": [
+        {
+            "student_id": "k12236792",
+            "first_name": "Ahmed",
+            "last_name": "Elshahed",
+            "email": "ahmedel2002@outlook.com",
+            "github_user": "AhmedKElshahed"
+        },
+        // ...add a record for each student
         {
             "student_id": "k00000000",
             "first_name": "First",
@@ -8,6 +16,5 @@
             "email": "first.last@mail.com",
             "github_user": "mygitusername"
         },
-        // ...add a record for each student
     ]
 }
